@@ -6,7 +6,7 @@
 ## 1. 이름
 choi seowon(최서원)      
 ## 2. 나이           
-22
+22세
 ## 3. 이메일     
 tjdnjs@naver.com
 ## 4. 전공     
